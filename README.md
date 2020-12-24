@@ -6,4 +6,4 @@ Noorsen is an online learning platform that provide trainers, learners, and othe
 
 # DOWNLOAD REPOS.
 Email me at : aymoon.23@outlook.com
-i'll respond asap. :)
+i'll respond asap :)
